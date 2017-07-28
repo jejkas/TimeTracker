@@ -1,0 +1,14 @@
+## Interface: 11200
+## Title: TimeTracker
+## Author: rexas (rexas@g33k.se)
+## Notes: TimeTracker
+## SavedVariablesPerCharacter: TT_Settings
+TimeTracker.lua
+TimeTracker.xml
+TimeTracker_UI.lua
+TimeTracker_UI_Bars.lua
+TimeTracker_UI_ProcList.lua
+TimeTracker_UI_BuffTracker.lua
+TimeTracker_UI_ProcTracker.lua
+TimeTracker_UI_Cooldown.lua
+TimeTracker_UI_StatsWindow.lua
